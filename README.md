@@ -6,60 +6,33 @@
 # ✨ Fine Dots Backgrounds Pack for CanvasTTY
 
 <p align="center">
-  <strong>Curated collection of 20 animated Braille 2×4 subpixel matrix backgrounds for CanvasTTY terminals.</strong><br>
-  🎮 20 Live Scenes · ⚡ Subpixel Matrix · 🪟 Windows · 🐧 Linux · 🍎 macOS<br>
-  <a href="#-gallery--live-previews">View Gallery</a> ·
+  <strong>Curated collection of 21 animated Braille 2×4 subpixel matrix backgrounds for CanvasTTY terminals.</strong><br>
+  🎮 21 Live Scenes · ⚡ Subpixel Matrix · 🪟 Windows · 🐧 Linux · 🍎 macOS<br>
+  <a href="#-animated-gallery-collage">View Collage</a> ·
   <a href="#-installation">Installation</a> ·
   <a href="LICENSE">MIT License</a>
 </p>
 
 A high-performance animated backgrounds collection designed specifically for [CanvasTTY](https://github.com/howdeploy/CanvasTTY). All scenes are rendered in **Fine Dots** (Braille $2\times 4$ subpixel matrix, `0x2800..0x28FF`) providing smooth subpixel geometry and zero distortion without stretching or cropping.
 
-Strictly curated: 100% wholesome, clean, copyright-free animations (zero third-party movie clips or sensitive content).
-
 ---
 
-## 🎨 Gallery & Live Previews
+## 🎨 Animated Gallery Collage
 
-### ⚡ Cyberpunk & Neon
+| Background | Background |
+| :---: | :---: |
+| <img src="assets/previews/two-shadow-fiends.webp" width="380" alt="Two Shadow Fiends: Theo & Kisa"><br><strong>Two Shadow Fiends: Theo & Kisa</strong><br><sub>Iconic synchronized Shadow Fiends swaggering walk with glowing fiery claws</sub> | <img src="assets/previews/kotiki-tantsuyut.webp" width="380" alt="Dancing Cats DJ"><br><strong>Dancing Cats DJ</strong><br><sub>Energetic viral dancing cats loop grooving to the beat</sub> |
+| <img src="assets/previews/cat-stare.webp" width="380" alt="Time to Lock In (Coding Cat)"><br><strong>Time to Lock In (Coding Cat)</strong><br><sub>Intense focused meme cat locked in for late-night programming</sub> | <img src="assets/previews/komaru-cat.webp" width="380" alt="Komaru 2kg Salt Party"><br><strong>Komaru 2kg Salt Party</strong><br><sub>The legendary Komaru cat from the iconic salt party meme</sub> |
+| <img src="assets/previews/bananchiki-komaru.webp" width="380" alt="Banana Komaru (Mmm Bananas)"><br><strong>Banana Komaru (Mmm Bananas)</strong><br><sub>Adorable Komaru cat dancing in a cute banana outfit</sub> | <img src="assets/previews/eshkere-cats.webp" width="380" alt="Eshkere Cats Choir"><br><strong>Eshkere Cats Choir</strong><br><sub>Meme cats dancing together in an upbeat synchronized circle</sub> |
+| <img src="assets/previews/okak-cat.webp" width="380" alt="Hooded Cat: Okak"><br><strong>Hooded Cat: Okak</strong><br><sub>Cozy cat in a hoodie observing terminal logs</sub> | <img src="assets/previews/interesno-meme.webp" width="380" alt="Curious Cat: Why"><br><strong>Curious Cat: Why</strong><br><sub>Thoughtful meme cat pondering why code works on the first try</sub> |
+| <img src="assets/previews/babrikosk-bear.webp" width="380" alt="Dancing Bear Babrikosk"><br><strong>Dancing Bear Babrikosk</strong><br><sub>Cheerful plush bear Babrikosk flexing and dancing non-stop</sub> | <img src="assets/previews/skeleton-dance.webp" width="380" alt="Spooky Skeletons Flex"><br><strong>Spooky Skeletons Flex</strong><br><sub>Classic Halloween synchronized skeleton dance under stage lights</sub> |
+| <img src="assets/previews/discipline-routine.webp" width="380" alt="Discipline Phonk Routine"><br><strong>Discipline Phonk Routine</strong><br><sub>Motivational athlete silhouette with DISCIPLINE typography in cyber phonk style</sub> | <img src="assets/previews/moon-astronaut.webp" width="380" alt="Astronaut Lounging on Moon"><br><strong>Astronaut Lounging on Moon</strong><br><sub>Chilled astronaut relaxing on the Moon with scenic Earth view</sub> |
+| <img src="assets/previews/neon-highway.webp" width="380" alt="Ginger Cat on the Hood"><br><strong>Ginger Cat on the Hood</strong><br><sub>Tough ginger cat relaxing on a car hood under city neon lights</sub> | <img src="assets/previews/basketball-neon.webp" width="380" alt="Neon Basketball Dunk"><br><strong>Neon Basketball Dunk</strong><br><sub>Powerful basketball slam dunk sequence in glowing purple neon</sub> |
+| <img src="assets/previews/sneaky-golem.webp" width="380" alt="Sneaky Dark Voxel Golem"><br><strong>Sneaky Dark Voxel Golem</strong><br><sub>Sneaky voxel golem character pacing steadily through the dark</sub> | <img src="assets/previews/anime-girl-rain.webp" width="380" alt="Living Room Kittens (Hookah)"><br><strong>Living Room Kittens (Hookah)</strong><br><sub>Cozy evening neon living room vibe with cute relaxed kittens</sub> |
+| <img src="assets/previews/neon-cityscape.webp" width="380" alt="Streamer Waving Hello"><br><strong>Streamer Waving Hello</strong><br><sub>Friendly anime streamer silhouette waving hello from a neon city window</sub> | <img src="assets/previews/orchestrator-goal.webp" width="380" alt="Orchestrator Checking /goal"><br><strong>Orchestrator Checking /goal</strong><br><sub>Futuristic high-tech HUD scanner loop checking agent goals</sub> |
+| <img src="assets/previews/aesthetic-drive.webp" width="380" alt="Cozy Fireplace Cat"><br><strong>Cozy Fireplace Cat</strong><br><sub>Cozy cat warming paws near a warm, flickering fireplace</sub> | <img src="assets/previews/city-night-walk.webp" width="380" alt="Fisheye Shocked Cat"><br><strong>Fisheye Shocked Cat</strong><br><sub>Hilarious wide-angle fisheye lens view of a stunned cat</sub> |
+| <img src="assets/previews/pixel-animation.webp" width="380" alt="My Reaction To That Information"><br><strong>My Reaction To That Information</strong><br><sub>Iconic retro pixel meme reaction loop</sub> |  |
 
-| Preview | Scene | Description |
-| :---: | :--- | :--- |
-| <img src="assets/previews/basketball-neon.webp" width="220" alt="Neon Dunk"> | **Neon Dunk**<br>`basketball-neon` | Dynamic basketball slam dunk under violet neon lighting |
-| <img src="assets/previews/discipline-routine.webp" width="220" alt="Discipline Routine"> | **Discipline Routine**<br>`discipline-routine` | Motivational stylized workout routine in neon cyber aesthetic |
-| <img src="assets/previews/neon-cityscape.webp" width="220" alt="Anime Greeting"> | **Anime Greeting**<br>`neon-cityscape` | Friendly cyber anime silhouette waving from a neon window |
-| <img src="assets/previews/neon-highway.webp" width="220" alt="Cat on the Hood"> | **Cat on the Hood**<br>`neon-highway` | Calm ginger cat resting on a car hood under neon city light |
-
-### 🌌 Space & Futurism
-
-| Preview | Scene | Description |
-| :---: | :--- | :--- |
-| <img src="assets/previews/moon-astronaut.webp" width="220" alt="Moon Astronaut"> | **Moon Astronaut**<br>`moon-astronaut` | Atmospheric astronaut resting on the Moon with Earth in the background |
-| <img src="assets/previews/orchestrator-goal.webp" width="220" alt="Tech HUD Loop"> | **Tech HUD Loop**<br>`orchestrator-goal` | Futuristic high-tech HUD scanning interface loop |
-
-### 🕹️ Retro & Pixel Art
-
-| Preview | Scene | Description |
-| :---: | :--- | :--- |
-| <img src="assets/previews/sneaky-golem.webp" width="220" alt="Voxel Golem"> | **Voxel Golem**<br>`sneaky-golem` | Charming walking voxel golem character |
-| <img src="assets/previews/pixel-animation.webp" width="220" alt="Reaction Loop"> | **Reaction Loop**<br>`pixel-animation` | Iconic retro pixel reaction meme animation |
-| <img src="assets/previews/aesthetic-drive.webp" width="220" alt="Fireplace Cat"> | **Fireplace Cat**<br>`aesthetic-drive` | Cozy cat warming up near a gentle fireplace |
-
-### 🐱 Memes & Cute Cats
-
-| Preview | Scene | Description |
-| :---: | :--- | :--- |
-| <img src="assets/previews/kotiki-tantsuyut.webp" width="220" alt="Dancing Cats DJ"> | **Dancing Cats DJ**<br>`kotiki-tantsuyut` | Energetic rhythmic dancing cats loop |
-| <img src="assets/previews/komaru-cat.webp" width="220" alt="Komaru Cat"> | **Komaru Cat**<br>`komaru-cat` | The legendary Komaru cat rendered in Braille matrix |
-| <img src="assets/previews/cat-stare.webp" width="220" alt="Lock-In Cat"> | **Lock-In Cat**<br>`cat-stare` | Focused meme cat locked in for late-night coding |
-| <img src="assets/previews/bananchiki-komaru.webp" width="220" alt="Banana Komaru"> | **Banana Komaru**<br>`bananchiki-komaru` | Adorable Komaru cat in a banana costume |
-| <img src="assets/previews/eshkere-cats.webp" width="220" alt="Dancing Cats Choir"> | **Dancing Cats Choir**<br>`eshkere-cats` | Charming meme cats dancing in a friendly circle |
-| <img src="assets/previews/okak-cat.webp" width="220" alt="Hooded Cat"> | **Hooded Cat**<br>`okak-cat` | Cozy hooded cat observing the terminal |
-| <img src="assets/previews/babrikosk-bear.webp" width="220" alt="Dancing Bear"> | **Dancing Bear**<br>`babrikosk-bear` | Upbeat cheerful dancing plush bear animation |
-| <img src="assets/previews/skeleton-dance.webp" width="220" alt="Skeleton Dance"> | **Skeleton Dance**<br>`skeleton-dance` | Classic rhythmic retro dancing skeletons loop |
-| <img src="assets/previews/interesno-meme.webp" width="220" alt="Curious Cat"> | **Curious Cat**<br>`interesno-meme` | Thoughtful curious meme cat reflecting on terminal logs |
-| <img src="assets/previews/anime-girl-rain.webp" width="220" alt="Cozy Living Room Kittens"> | **Cozy Living Room Kittens**<br>`anime-girl-rain` | Cozy evening room scene with playful kittens |
-| <img src="assets/previews/city-night-walk.webp" width="220" alt="Fisheye Cat"> | **Fisheye Cat**<br>`city-night-walk` | Playful close-up cat staring into a fisheye lens |
 
 ---
 
@@ -86,6 +59,7 @@ git clone https://github.com/CLOSETTTY/canvastty-plugin-terminal-backgrounds.git
 | **Color Depth** | 256-color K-Means palette |
 | **Ground Anchor** | `#07090f` (matches CanvasTTY dark terminal background) |
 | **Aspect Fit** | Natural geometric contain mode (no stretching, round dots) |
+| **Animation Rate** | Butter-smooth 15 FPS locked WebP / JSON streams |
 | **Storage Format** | Compact RLE-compressed frame data (`data/*.json`) + JS module (`pieces/*.js`) |
 
 ---

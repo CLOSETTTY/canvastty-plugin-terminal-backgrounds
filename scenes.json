@@ -1,162 +1,149 @@
 [
   {
-    "id": "kotiki-tantsuyut",
-    "name": "Dancing Cats DJ",
-    "nameRu": "Котики танцуют",
-    "cat": "memes",
-    "desc": "Зажигательный зацикленный танец котиков под музыку",
-    "descEn": "Energetic rhythmic dancing cats loop"
+    "id": "two-shadow-fiends",
+    "name": "Two Shadow Fiends: Theo & Kisa",
+    "nameRu": "Тео и Киса: Вынос клодоёбов",
+    "desc": "Легендарная синхронная походка двух Shadow Fiend с пылающими когтями",
+    "descEn": "Iconic synchronized Shadow Fiends swaggering walk with glowing fiery claws"
   },
   {
-    "id": "komaru-cat",
-    "name": "Komaru Cat",
-    "nameRu": "Кошка Комару",
-    "cat": "memes",
-    "desc": "Легендарная кошка Комару в субпиксельной Брайль-матрице",
-    "descEn": "The legendary Komaru cat rendered in Braille matrix"
+    "id": "kotiki-tantsuyut",
+    "name": "Dancing Cats DJ",
+    "nameRu": "Котики танцуют под бит",
+    "desc": "Зажигательный зацикленный танец котиков под клубный бит",
+    "descEn": "Energetic viral dancing cats loop grooving to the beat"
   },
   {
     "id": "cat-stare",
-    "name": "Lock-In Cat",
-    "nameRu": "Кот в фокусе",
-    "cat": "memes",
-    "desc": "Сосредоточенный мемный кот, идеален для ночного кодинга",
-    "descEn": "Focused meme cat locked in for late-night coding"
+    "name": "Time to Lock In (Coding Cat)",
+    "nameRu": "Time to Lock In (Кот кодит)",
+    "desc": "Сверхсосредоточенный мемный кот, идеальный напарник для ночного кода",
+    "descEn": "Intense focused meme cat locked in for late-night programming"
+  },
+  {
+    "id": "komaru-cat",
+    "name": "Komaru 2kg Salt Party",
+    "nameRu": "Кошка Комару: Партия соли",
+    "desc": "Легендарная кошка Комару, партия выдаёт 2 кг соли",
+    "descEn": "The legendary Komaru cat from the iconic salt party meme"
   },
   {
     "id": "bananchiki-komaru",
-    "name": "Banana Komaru",
-    "nameRu": "Бананчики Комару",
-    "cat": "memes",
-    "desc": "Милая кошка Комару в забавном банановом костюме",
-    "descEn": "Adorable Komaru cat in a banana costume"
+    "name": "Banana Komaru (Mmm Bananas)",
+    "nameRu": "Комару: Ммм бананчики",
+    "desc": "Очаровательная Комару в банановом костюме танцует под бананчики",
+    "descEn": "Adorable Komaru cat dancing in a cute banana outfit"
   },
   {
     "id": "eshkere-cats",
-    "name": "Dancing Cats Choir",
-    "nameRu": "Эщкере котики",
-    "cat": "memes",
-    "desc": "Мемные котики водят дружный хоровод",
-    "descEn": "Charming meme cats dancing in a friendly circle"
+    "name": "Eshkere Cats Choir",
+    "nameRu": "Хоровод котиков (Эщкере)",
+    "desc": "Мемные котики дружно водят хоровод в ритм",
+    "descEn": "Meme cats dancing together in an upbeat synchronized circle"
   },
   {
     "id": "okak-cat",
-    "name": "Hooded Cat",
-    "nameRu": "Кот в капюшоне Окак",
-    "cat": "memes",
-    "desc": "Уютный кот в худи с капюшоном",
-    "descEn": "Cozy hooded cat observing the terminal"
-  },
-  {
-    "id": "babrikosk-bear",
-    "name": "Dancing Bear",
-    "nameRu": "Танцующий мишка",
-    "cat": "memes",
-    "desc": "Забавный позитивный танцующий плюшевый мишка",
-    "descEn": "Upbeat cheerful dancing plush bear animation"
-  },
-  {
-    "id": "skeleton-dance",
-    "name": "Skeleton Dance",
-    "nameRu": "Танец скелетов",
-    "cat": "memes",
-    "desc": "Классический ритмичный танец скелетов",
-    "descEn": "Classic rhythmic retro dancing skeletons loop"
+    "name": "Hooded Cat: Okak",
+    "nameRu": "Кот в капюшоне (Окак)",
+    "desc": "Вайбовый кот в сером худи с капюшоном смотрит в терминал",
+    "descEn": "Cozy cat in a hoodie observing terminal logs"
   },
   {
     "id": "interesno-meme",
-    "name": "Curious Cat",
+    "name": "Curious Cat: Why",
     "nameRu": "Кот: Интересно почему",
-    "cat": "memes",
-    "desc": "Мемный кот, задумчиво смотрящий на происходящее",
-    "descEn": "Thoughtful curious meme cat reflecting on terminal logs"
+    "desc": "Мемный задумчивый кот, задающийся вопросом «Интересно почему»",
+    "descEn": "Thoughtful meme cat pondering why code works on the first try"
   },
   {
-    "id": "moon-astronaut",
-    "name": "Moon Astronaut",
-    "nameRu": "Астронавт на Луне",
-    "cat": "space",
-    "desc": "Атмосферный астронавт на Луне с видом на планету Земля",
-    "descEn": "Atmospheric astronaut resting on the Moon with Earth in the background"
+    "id": "babrikosk-bear",
+    "name": "Dancing Bear Babrikosk",
+    "nameRu": "Танцующий мишка Бабрикоск",
+    "desc": "Позитивный плюшевый мишка Бабрикоск флексит без остановки",
+    "descEn": "Cheerful plush bear Babrikosk flexing and dancing non-stop"
   },
   {
-    "id": "basketball-neon",
-    "name": "Neon Dunk",
-    "nameRu": "Неоновый данк",
-    "cat": "cyber",
-    "desc": "Динамичный бросок мяча сверху в фиолетовом неоновом свете",
-    "descEn": "Dynamic basketball slam dunk under violet neon lighting"
-  },
-  {
-    "id": "sneaky-golem",
-    "name": "Voxel Golem",
-    "nameRu": "Воксельный голем",
-    "cat": "retro",
-    "desc": "Очаровательный шагающий воксельный голем",
-    "descEn": "Charming walking voxel golem character"
+    "id": "skeleton-dance",
+    "name": "Spooky Skeletons Flex",
+    "nameRu": "Флекс скелетов на сцене",
+    "desc": "Культовый синхронный танец скелетов под лучами прожекторов",
+    "descEn": "Classic Halloween synchronized skeleton dance under stage lights"
   },
   {
     "id": "discipline-routine",
-    "name": "Discipline Routine",
-    "nameRu": "Дисциплина и спорт",
-    "cat": "cyber",
-    "desc": "Мотивирующий цикл тренировки в неоновом кибер-стиле",
-    "descEn": "Motivational stylized workout routine in neon cyber aesthetic"
+    "name": "Discipline Phonk Routine",
+    "nameRu": "Discipline (Тренировка под фонк)",
+    "desc": "Мотивирующий силуэт атлета и надпись DISCIPLINE в стиле кибер-фонк",
+    "descEn": "Motivational athlete silhouette with DISCIPLINE typography in cyber phonk style"
   },
   {
-    "id": "anime-girl-rain",
-    "name": "Cozy Living Room Kittens",
-    "nameRu": "Уютная комната с котятами",
-    "cat": "memes",
-    "desc": "Атмосферная сцена с котятами в неоновой вечерней комнате",
-    "descEn": "Cozy evening room scene with playful kittens"
-  },
-  {
-    "id": "pixel-animation",
-    "name": "Reaction Loop",
-    "nameRu": "Мемная реакция",
-    "cat": "retro",
-    "desc": "Культовая пиксельная мемная реакция",
-    "descEn": "Iconic retro pixel reaction meme animation"
-  },
-  {
-    "id": "neon-cityscape",
-    "name": "Anime Greeting",
-    "nameRu": "Аниме приветствие",
-    "cat": "cyber",
-    "desc": "Приветливый кибер-силуэт, машущий рукой из неонового окна",
-    "descEn": "Friendly cyber anime silhouette waving from a neon window"
+    "id": "moon-astronaut",
+    "name": "Astronaut Lounging on Moon",
+    "nameRu": "Астронавт на чилле на Луне",
+    "desc": "Астронавт отдыхает в шезлонге на Луне с видом на планету Земля",
+    "descEn": "Chilled astronaut relaxing on the Moon with scenic Earth view"
   },
   {
     "id": "neon-highway",
-    "name": "Cat on the Hood",
-    "nameRu": "Кот на капоте",
-    "cat": "cyber",
-    "desc": "Рыжий кот спокойно отдыхает на капоте машины в неоновом свете",
-    "descEn": "Calm ginger cat resting on a car hood under neon city light"
+    "name": "Ginger Cat on the Hood",
+    "nameRu": "Рыжий кот на капоте",
+    "desc": "Рыжий кот-боксёр отдыхает на капоте тачки под неоновыми огнями",
+    "descEn": "Tough ginger cat relaxing on a car hood under city neon lights"
+  },
+  {
+    "id": "basketball-neon",
+    "name": "Neon Basketball Dunk",
+    "nameRu": "Неоновый слэм-данк",
+    "desc": "Эпичный баскетбольный данк сверху в фиолетовом неоновом свете",
+    "descEn": "Powerful basketball slam dunk sequence in glowing purple neon"
+  },
+  {
+    "id": "sneaky-golem",
+    "name": "Sneaky Dark Voxel Golem",
+    "nameRu": "Воксельный тёмный голем",
+    "desc": "Коварный воксельный голем уверенно шагает в темноте",
+    "descEn": "Sneaky voxel golem character pacing steadily through the dark"
+  },
+  {
+    "id": "anime-girl-rain",
+    "name": "Living Room Kittens (Hookah)",
+    "nameRu": "Котята на чилле (Hookah Kittens)",
+    "desc": "Уютная комната, неоновый вечерний свет и котята на диване",
+    "descEn": "Cozy evening neon living room vibe with cute relaxed kittens"
+  },
+  {
+    "id": "neon-cityscape",
+    "name": "Streamer Waving Hello",
+    "nameRu": "Стримерша машет работягам",
+    "desc": "Аниме-силуэт стримерши приветливо машет из окна неонового города",
+    "descEn": "Friendly anime streamer silhouette waving hello from a neon city window"
   },
   {
     "id": "orchestrator-goal",
-    "name": "Tech HUD Loop",
-    "nameRu": "Интерфейс оркестратора",
-    "cat": "space",
-    "desc": "Футуристический высокотехнологичный HUD-интерфейс сканирования",
-    "descEn": "Futuristic high-tech HUD scanning interface loop"
+    "name": "Orchestrator Checking /goal",
+    "nameRu": "Оркестратор проверяет /goal",
+    "desc": "Футуристический высокотехнологичный HUD интерфейс агента-оркестратора",
+    "descEn": "Futuristic high-tech HUD scanner loop checking agent goals"
   },
   {
     "id": "aesthetic-drive",
-    "name": "Fireplace Cat",
-    "nameRu": "Кот у камина",
-    "cat": "retro",
-    "desc": "Уютный кот греется у тёплого камина",
-    "descEn": "Cozy cat warming up near a gentle fireplace"
+    "name": "Cozy Fireplace Cat",
+    "nameRu": "Кот греется у камина",
+    "desc": "Уютный кот греет лапки у тёплого огня камина",
+    "descEn": "Cozy cat warming paws near a warm, flickering fireplace"
   },
   {
     "id": "city-night-walk",
-    "name": "Fisheye Cat",
-    "nameRu": "Кот в объективе",
-    "cat": "memes",
-    "desc": "Забавный кот, смотрящий прямо в широкоугольную линзу",
-    "descEn": "Playful close-up cat staring into a fisheye lens"
+    "name": "Fisheye Shocked Cat",
+    "nameRu": "Кот в ахуе (Фишай)",
+    "desc": "Мемный кот с огромными удивлёнными глазами прямо в объектив",
+    "descEn": "Hilarious wide-angle fisheye lens view of a stunned cat"
+  },
+  {
+    "id": "pixel-animation",
+    "name": "My Reaction To That Information",
+    "nameRu": "My Reaction To That Information",
+    "desc": "Культовая пиксельная мемная реакция на входящую информацию",
+    "descEn": "Iconic retro pixel meme reaction loop"
   }
 ]

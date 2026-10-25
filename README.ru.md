@@ -6,60 +6,33 @@
 # ✨ Fine Dots Backgrounds Pack для CanvasTTY
 
 <p align="center">
-  <strong>Отборная коллекция из 20 анимированных фонов Брайль 2×4 для терминалов CanvasTTY.</strong><br>
-  🎮 20 Живых сцен · ⚡ Субпиксельная матрица · 🪟 Windows · 🐧 Linux · 🍎 macOS<br>
-  <a href="#-живая-галерея-фонов">Смотреть галерею</a> ·
+  <strong>Отборная коллекция из 21 анимированных фонов Брайль 2×4 для терминалов CanvasTTY.</strong><br>
+  🎮 21 Живых сцен · ⚡ Субпиксельная матрица · 🪟 Windows · 🐧 Linux · 🍎 macOS<br>
+  <a href="#-анимированный-коллаж-фонов">Смотреть коллаж</a> ·
   <a href="#-установка">Установка</a> ·
   <a href="LICENSE">Лицензия MIT</a>
 </p>
 
 Коллекция анимированных фонов высокой четкости, созданная специально для рабочего пространства [CanvasTTY](https://github.com/howdeploy/CanvasTTY). Все сцены оптимизированы для рендеринга в режиме **Fine Dots** (матрица Брайля $2\times 4$, `0x2800..0x28FF`) с естественными пропорциями кадра без растягивания и обрезки.
 
-Строгая модерация: 100% безопасный и чистый контент без чужих защищённых фильмов, франшиз или спорных материалов.
-
 ---
 
-## 🎨 Живая галерея фонов
+## 🎨 Анимированный коллаж фонов
 
-### ⚡ Киберпанк и Неон
+| Фон | Фон |
+| :---: | :---: |
+| <img src="assets/previews/two-shadow-fiends.webp" width="380" alt="Тео и Киса: Вынос клодоёбов"><br><strong>Тео и Киса: Вынос клодоёбов</strong><br><sub>Легендарная синхронная походка двух Shadow Fiend с пылающими когтями</sub> | <img src="assets/previews/kotiki-tantsuyut.webp" width="380" alt="Котики танцуют под бит"><br><strong>Котики танцуют под бит</strong><br><sub>Зажигательный зацикленный танец котиков под клубный бит</sub> |
+| <img src="assets/previews/cat-stare.webp" width="380" alt="Time to Lock In (Кот кодит)"><br><strong>Time to Lock In (Кот кодит)</strong><br><sub>Сверхсосредоточенный мемный кот, идеальный напарник для ночного кода</sub> | <img src="assets/previews/komaru-cat.webp" width="380" alt="Кошка Комару: Партия соли"><br><strong>Кошка Комару: Партия соли</strong><br><sub>Легендарная кошка Комару, партия выдаёт 2 кг соли</sub> |
+| <img src="assets/previews/bananchiki-komaru.webp" width="380" alt="Комару: Ммм бананчики"><br><strong>Комару: Ммм бананчики</strong><br><sub>Очаровательная Комару в банановом костюме танцует под бананчики</sub> | <img src="assets/previews/eshkere-cats.webp" width="380" alt="Хоровод котиков (Эщкере)"><br><strong>Хоровод котиков (Эщкере)</strong><br><sub>Мемные котики дружно водят хоровод в ритм</sub> |
+| <img src="assets/previews/okak-cat.webp" width="380" alt="Кот в капюшоне (Окак)"><br><strong>Кот в капюшоне (Окак)</strong><br><sub>Вайбовый кот в сером худи с капюшоном смотрит в терминал</sub> | <img src="assets/previews/interesno-meme.webp" width="380" alt="Кот: Интересно почему"><br><strong>Кот: Интересно почему</strong><br><sub>Мемный задумчивый кот, задающийся вопросом «Интересно почему»</sub> |
+| <img src="assets/previews/babrikosk-bear.webp" width="380" alt="Танцующий мишка Бабрикоск"><br><strong>Танцующий мишка Бабрикоск</strong><br><sub>Позитивный плюшевый мишка Бабрикоск флексит без остановки</sub> | <img src="assets/previews/skeleton-dance.webp" width="380" alt="Флекс скелетов на сцене"><br><strong>Флекс скелетов на сцене</strong><br><sub>Культовый синхронный танец скелетов под лучами прожекторов</sub> |
+| <img src="assets/previews/discipline-routine.webp" width="380" alt="Discipline (Тренировка под фонк)"><br><strong>Discipline (Тренировка под фонк)</strong><br><sub>Мотивирующий силуэт атлета и надпись DISCIPLINE в стиле кибер-фонк</sub> | <img src="assets/previews/moon-astronaut.webp" width="380" alt="Астронавт на чилле на Луне"><br><strong>Астронавт на чилле на Луне</strong><br><sub>Астронавт отдыхает в шезлонге на Луне с видом на планету Земля</sub> |
+| <img src="assets/previews/neon-highway.webp" width="380" alt="Рыжий кот на капоте"><br><strong>Рыжий кот на капоте</strong><br><sub>Рыжий кот-боксёр отдыхает на капоте тачки под неоновыми огнями</sub> | <img src="assets/previews/basketball-neon.webp" width="380" alt="Неоновый слэм-данк"><br><strong>Неоновый слэм-данк</strong><br><sub>Эпичный баскетбольный данк сверху в фиолетовом неоновом свете</sub> |
+| <img src="assets/previews/sneaky-golem.webp" width="380" alt="Воксельный тёмный голем"><br><strong>Воксельный тёмный голем</strong><br><sub>Коварный воксельный голем уверенно шагает в темноте</sub> | <img src="assets/previews/anime-girl-rain.webp" width="380" alt="Котята на чилле (Hookah Kittens)"><br><strong>Котята на чилле (Hookah Kittens)</strong><br><sub>Уютная комната, неоновый вечерний свет и котята на диване</sub> |
+| <img src="assets/previews/neon-cityscape.webp" width="380" alt="Стримерша машет работягам"><br><strong>Стримерша машет работягам</strong><br><sub>Аниме-силуэт стримерши приветливо машет из окна неонового города</sub> | <img src="assets/previews/orchestrator-goal.webp" width="380" alt="Оркестратор проверяет /goal"><br><strong>Оркестратор проверяет /goal</strong><br><sub>Футуристический высокотехнологичный HUD интерфейс агента-оркестратора</sub> |
+| <img src="assets/previews/aesthetic-drive.webp" width="380" alt="Кот греется у камина"><br><strong>Кот греется у камина</strong><br><sub>Уютный кот греет лапки у тёплого огня камина</sub> | <img src="assets/previews/city-night-walk.webp" width="380" alt="Кот в ахуе (Фишай)"><br><strong>Кот в ахуе (Фишай)</strong><br><sub>Мемный кот с огромными удивлёнными глазами прямо в объектив</sub> |
+| <img src="assets/previews/pixel-animation.webp" width="380" alt="My Reaction To That Information"><br><strong>My Reaction To That Information</strong><br><sub>Культовая пиксельная мемная реакция на входящую информацию</sub> |  |
 
-| Превью | Название | Описание |
-| :---: | :--- | :--- |
-| <img src="assets/previews/basketball-neon.webp" width="220" alt="Неоновый данк"> | **Неоновый данк**<br>`basketball-neon` | Динамичный бросок мяча сверху в фиолетовом неоновом свете |
-| <img src="assets/previews/discipline-routine.webp" width="220" alt="Дисциплина и спорт"> | **Дисциплина и спорт**<br>`discipline-routine` | Мотивирующий цикл тренировки в неоновом кибер-стиле |
-| <img src="assets/previews/neon-cityscape.webp" width="220" alt="Аниме приветствие"> | **Аниме приветствие**<br>`neon-cityscape` | Приветливый кибер-силуэт, машущий рукой из неонового окна |
-| <img src="assets/previews/neon-highway.webp" width="220" alt="Кот на капоте"> | **Кот на капоте**<br>`neon-highway` | Рыжий кот спокойно отдыхает на капоте машины в неоновом свете |
-
-### 🌌 Космос и Футуризм
-
-| Превью | Название | Описание |
-| :---: | :--- | :--- |
-| <img src="assets/previews/moon-astronaut.webp" width="220" alt="Астронавт на Луне"> | **Астронавт на Луне**<br>`moon-astronaut` | Атмосферный астронавт на Луне с видом на планету Земля |
-| <img src="assets/previews/orchestrator-goal.webp" width="220" alt="Интерфейс оркестратора"> | **Интерфейс оркестратора**<br>`orchestrator-goal` | Футуристический высокотехнологичный HUD-интерфейс сканирования |
-
-### 🕹️ Ретро и Пиксели
-
-| Превью | Название | Описание |
-| :---: | :--- | :--- |
-| <img src="assets/previews/sneaky-golem.webp" width="220" alt="Воксельный голем"> | **Воксельный голем**<br>`sneaky-golem` | Очаровательный шагающий воксельный голем |
-| <img src="assets/previews/pixel-animation.webp" width="220" alt="Мемная реакция"> | **Мемная реакция**<br>`pixel-animation` | Культовая пиксельная мемная реакция |
-| <img src="assets/previews/aesthetic-drive.webp" width="220" alt="Кот у камина"> | **Кот у камина**<br>`aesthetic-drive` | Уютный кот греется у тёплого камина |
-
-### 🐱 Мемы и Котики
-
-| Превью | Название | Описание |
-| :---: | :--- | :--- |
-| <img src="assets/previews/kotiki-tantsuyut.webp" width="220" alt="Котики танцуют"> | **Котики танцуют**<br>`kotiki-tantsuyut` | Зажигательный зацикленный танец котиков под музыку |
-| <img src="assets/previews/komaru-cat.webp" width="220" alt="Кошка Комару"> | **Кошка Комару**<br>`komaru-cat` | Легендарная кошка Комару в субпиксельной Брайль-матрице |
-| <img src="assets/previews/cat-stare.webp" width="220" alt="Кот в фокусе"> | **Кот в фокусе**<br>`cat-stare` | Сосредоточенный мемный кот, идеален для ночного кодинга |
-| <img src="assets/previews/bananchiki-komaru.webp" width="220" alt="Бананчики Комару"> | **Бананчики Комару**<br>`bananchiki-komaru` | Милая кошка Комару в забавном банановом костюме |
-| <img src="assets/previews/eshkere-cats.webp" width="220" alt="Эщкере котики"> | **Эщкере котики**<br>`eshkere-cats` | Мемные котики водят дружный хоровод |
-| <img src="assets/previews/okak-cat.webp" width="220" alt="Кот в капюшоне Окак"> | **Кот в капюшоне Окак**<br>`okak-cat` | Уютный кот в худи с капюшоном |
-| <img src="assets/previews/babrikosk-bear.webp" width="220" alt="Танцующий мишка"> | **Танцующий мишка**<br>`babrikosk-bear` | Забавный позитивный танцующий плюшевый мишка |
-| <img src="assets/previews/skeleton-dance.webp" width="220" alt="Танец скелетов"> | **Танец скелетов**<br>`skeleton-dance` | Классический ритмичный танец скелетов |
-| <img src="assets/previews/interesno-meme.webp" width="220" alt="Кот: Интересно почему"> | **Кот: Интересно почему**<br>`interesno-meme` | Мемный кот, задумчиво смотрящий на происходящее |
-| <img src="assets/previews/anime-girl-rain.webp" width="220" alt="Уютная комната с котятами"> | **Уютная комната с котятами**<br>`anime-girl-rain` | Атмосферная сцена с котятами в неоновой вечерней комнате |
-| <img src="assets/previews/city-night-walk.webp" width="220" alt="Кот в объективе"> | **Кот в объективе**<br>`city-night-walk` | Забавный кот, смотрящий прямо в широкоугольную линзу |
 
 ---
 
@@ -86,6 +59,7 @@ git clone https://github.com/CLOSETTTY/canvastty-plugin-terminal-backgrounds.git
 | **Цветовая палитра** | 256 цветов K-Means кластеризации |
 | **Ground-якорь** | `#07090f` (бесшовное слияние с подложкой терминала) |
 | **Геометрия** | Режим `contain`: полное сохранение пропорций кадра без искажения точек |
+| **Кадровая частота** | Плавные 15 FPS (фиксированный тайминг WebP / JSON) |
 | **Формат данных** | RLE-сжатие кадров (`data/*.json`) + JS-модуль сцены (`pieces/*.js`) |
 
 ---
