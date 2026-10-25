@@ -3,9 +3,9 @@
   "id": "canvastty-plugin-terminal-backgrounds",
   "name": "Fine Dots Backgrounds Pack",
   "version": "1.0.0",
-  "description": "35 curated Fine-Dots animated backgrounds for CanvasTTY terminals: cyber, retro, space, and aesthetic meme loops.",
-  "description.ru": "Коллекция из 35 отборных анимированных фонов Fine Dots (Брайль 2x4) для терминалов CanvasTTY.",
-  "description.en": "35 curated Fine-Dots animated backgrounds for CanvasTTY terminals: cyber, retro, space, and aesthetic meme loops.",
+  "description": "20 curated wholesome Fine-Dots animated backgrounds for CanvasTTY terminals: cyber, space, cozy pixel loops and meme cats.",
+  "description.ru": "Коллекция из 20 отборных анимированных фонов Fine Dots (Брайль 2x4) для терминалов CanvasTTY: киберпанк, космос, пиксель-арт и котики.",
+  "description.en": "20 curated wholesome Fine-Dots animated backgrounds for CanvasTTY terminals: cyber, space, cozy pixel loops and meme cats.",
   "author": "CLOSETTTY",
   "homepage": "https://github.com/CLOSETTTY/canvastty-plugin-terminal-backgrounds",
   "permissions": [],
@@ -14,10 +14,16 @@
       "id": "backgrounds-gallery",
       "kind": "canvas-app",
       "title": "Фоны терминалов",
-      "description": "Галерея анимированных фонов Fine Dots с живым предпросмотром",
+      "description": "Галерея из 20 анимированных фонов Fine Dots с живым предпросмотром",
       "entry": "index.html",
-      "defaultSize": { "width": 880, "height": 620 },
-      "minSize": { "width": 640, "height": 420 }
+      "defaultSize": {
+        "width": 880,
+        "height": 620
+      },
+      "minSize": {
+        "width": 640,
+        "height": 420
+      }
     }
   ]
 }

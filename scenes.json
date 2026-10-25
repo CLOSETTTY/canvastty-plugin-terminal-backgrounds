@@ -1,282 +1,162 @@
 [
   {
-    "id": "aesthetic-drive",
-    "name": "Aesthetic Drive",
-    "nameRu": "Эстетичная поездка",
-    "cat": "retro",
-    "desc": "Неоновая ретро-поездка в закат 80-х",
-    "descEn": "Retro 80s outrun neon highway drive into the sunset"
-  },
-  {
-    "id": "anime-action",
-    "name": "Anime Action",
-    "nameRu": "Аниме Экшен",
-    "cat": "anime",
-    "desc": "Динамичный ретро-аниме экшен в неоновых тонах",
-    "descEn": "Dynamic stylized retro anime action scene in neon tones"
-  },
-  {
-    "id": "anime-girl-rain",
-    "name": "Girl in Rain",
-    "nameRu": "Девушка под дождём",
-    "cat": "anime",
-    "desc": "Атмосферный силуэт девушки с зонтом под дождём",
-    "descEn": "Atmospheric silhouette of a girl with umbrella in the rain"
-  },
-  {
-    "id": "babrikosk-bear",
-    "name": "Dancing Bear",
-    "nameRu": "Танцующий мишка",
+    "id": "kotiki-tantsuyut",
+    "name": "Dancing Cats DJ",
+    "nameRu": "Котики танцуют",
     "cat": "memes",
-    "desc": "Забавный танцующий мишка Бабрикоск",
-    "descEn": "Funny dancing bear animation"
-  },
-  {
-    "id": "bananchiki-komaru",
-    "name": "Banana Komaru",
-    "nameRu": "Бананчики Комару",
-    "cat": "memes",
-    "desc": "Кошка Комару в банановом костюме",
-    "descEn": "Banana Komaru cat dance animation"
-  },
-  {
-    "id": "basketball-neon",
-    "name": "Neon Dunk",
-    "nameRu": "Неоновый данк",
-    "cat": "cyber",
-    "desc": "Эпичный баскетбольный бросок сверху в неоновом свечении",
-    "descEn": "Epic basketball slam dunk in glowing neon light"
-  },
-  {
-    "id": "cat-stare",
-    "name": "Cat Stare",
-    "nameRu": "Пристальный кот",
-    "cat": "memes",
-    "desc": "Мемный кот, внимательно смотрящий в экран",
-    "descEn": "Curious cat staring directly into the screen"
-  },
-  {
-    "id": "city-night-walk",
-    "name": "City Night Walk",
-    "nameRu": "Прогулка по ночному городу",
-    "cat": "cyber",
-    "desc": "Атмосферный пиксельный ночной мегаполис",
-    "descEn": "Atmospheric pixel art walk through a night metropolis"
-  },
-  {
-    "id": "cosmic-drift",
-    "name": "Cosmic Drift",
-    "nameRu": "Космический дрифт",
-    "cat": "space",
-    "desc": "Астронавт, парящий в бескрайнем космосе",
-    "descEn": "Astronaut floating in deep space"
-  },
-  {
-    "id": "cyber-glow",
-    "name": "Cyber Glow",
-    "nameRu": "Кибер Свечение",
-    "cat": "cyber",
-    "desc": "Плавные неоновые волны и футуристическая геометрия",
-    "descEn": "Smooth neon waves and futuristic geometric flow"
-  },
-  {
-    "id": "cyber-samurai",
-    "name": "Cyber Samurai",
-    "nameRu": "Кибер-самурай",
-    "cat": "cyber",
-    "desc": "Силуэт кибер-самурая под неоновым дождём",
-    "descEn": "Cyberpunk samurai silhouette under the neon rain"
-  },
-  {
-    "id": "demik-scene",
-    "name": "Pixel Horizon",
-    "nameRu": "Пиксельный горизонт",
-    "cat": "retro",
-    "desc": "Ностальгический 8-битный пейзаж",
-    "descEn": "Nostalgic 8-bit landscape loop"
-  },
-  {
-    "id": "discipline-routine",
-    "name": "Discipline Routine",
-    "nameRu": "Дисциплина и тренировка",
-    "cat": "anime",
-    "desc": "Мотивирующий цикл тренировки в кибер-стиле",
-    "descEn": "Motivational workout routine loop in cyber style"
-  },
-  {
-    "id": "dvd-bounce",
-    "name": "DVD Bounce",
-    "nameRu": "Отскок логотипа DVD",
-    "cat": "retro",
-    "desc": "Культовый логотип DVD, отскакивающий от углов экрана",
-    "descEn": "Classic retro bouncing DVD logo hitting the corner"
-  },
-  {
-    "id": "eshkere-cats",
-    "name": "Eshkere Cats",
-    "nameRu": "Эщкере котики",
-    "cat": "memes",
-    "desc": "Мемные котики, танцующие под бит",
-    "descEn": "Meme cats dancing to the beat"
-  },
-  {
-    "id": "glitch-dream",
-    "name": "Glitch Dream",
-    "nameRu": "Глитч-сон",
-    "cat": "cyber",
-    "desc": "Психоделический неоновый глитч-арт",
-    "descEn": "Psychedelic neon glitch art animation"
-  },
-  {
-    "id": "interesno-meme",
-    "name": "Interesting Meme",
-    "nameRu": "Мем «Очень интересно»",
-    "cat": "memes",
-    "desc": "Забавный мемный диалог с котиком",
-    "descEn": "Funny meme conversation with a cat"
+    "desc": "Зажигательный зацикленный танец котиков под музыку",
+    "descEn": "Energetic rhythmic dancing cats loop"
   },
   {
     "id": "komaru-cat",
     "name": "Komaru Cat",
     "nameRu": "Кошка Комару",
     "cat": "memes",
-    "desc": "Легендарная кошка Комару в Брайль-матрице",
-    "descEn": "Legendary Komaru cat in Braille matrix"
+    "desc": "Легендарная кошка Комару в субпиксельной Брайль-матрице",
+    "descEn": "The legendary Komaru cat rendered in Braille matrix"
   },
   {
-    "id": "kotiki-tantsuyut",
-    "name": "Dancing Cats",
-    "nameRu": "Котики танцуют",
+    "id": "cat-stare",
+    "name": "Lock-In Cat",
+    "nameRu": "Кот в фокусе",
     "cat": "memes",
-    "desc": "Зажигательный танец котиков под музыку",
-    "descEn": "Energetic dancing cats loop"
+    "desc": "Сосредоточенный мемный кот, идеален для ночного кодинга",
+    "descEn": "Focused meme cat locked in for late-night coding"
   },
   {
-    "id": "loom-animation",
-    "name": "Geometric Loom",
-    "nameRu": "Геометрический узор",
-    "cat": "space",
-    "desc": "Гипнотическое вращение световых струн",
-    "descEn": "Hypnotic geometric rotating light strings"
-  },
-  {
-    "id": "moon-astronaut",
-    "name": "Moon Astronaut",
-    "nameRu": "Астронавт на Луне",
-    "cat": "space",
-    "desc": "Астронавт на фоне Земли и лунного пейзажа",
-    "descEn": "Astronaut exploring the moon with Earth in background"
-  },
-  {
-    "id": "neon-cityscape",
-    "name": "Neon Cityscape",
-    "nameRu": "Неоновый город",
-    "cat": "cyber",
-    "desc": "Ночной киберпанк-город с неоновой рекламой",
-    "descEn": "Cyberpunk night skyline with neon billboards"
-  },
-  {
-    "id": "neon-highway",
-    "name": "Neon Highway",
-    "nameRu": "Неоновое шоссе",
-    "cat": "cyber",
-    "desc": "Бесконечная ночная трасса в лучах неона",
-    "descEn": "Endless neon highway drive in the night"
-  },
-  {
-    "id": "oguzki-bezdari",
-    "name": "Oguzki Bezdari",
-    "nameRu": "Огузки бездари",
+    "id": "bananchiki-komaru",
+    "name": "Banana Komaru",
+    "nameRu": "Бананчики Комару",
     "cat": "memes",
-    "desc": "Культовый мем про шефа и поваров",
-    "descEn": "Classic chef and kitchen meme loop"
+    "desc": "Милая кошка Комару в забавном банановом костюме",
+    "descEn": "Adorable Komaru cat in a banana costume"
+  },
+  {
+    "id": "eshkere-cats",
+    "name": "Dancing Cats Choir",
+    "nameRu": "Эщкере котики",
+    "cat": "memes",
+    "desc": "Мемные котики водят дружный хоровод",
+    "descEn": "Charming meme cats dancing in a friendly circle"
   },
   {
     "id": "okak-cat",
-    "name": "Okak Cat",
-    "nameRu": "Кот Окак",
+    "name": "Hooded Cat",
+    "nameRu": "Кот в капюшоне Окак",
     "cat": "memes",
-    "desc": "Удивлённый мемный кот Окак",
-    "descEn": "Surprised Okak cat meme"
+    "desc": "Уютный кот в худи с капюшоном",
+    "descEn": "Cozy hooded cat observing the terminal"
   },
   {
-    "id": "orchestrator-goal",
-    "name": "Tech HUD Loop",
-    "nameRu": "Интерфейс оркестратора",
-    "cat": "space",
-    "desc": "Футуристический высокотехнологичный HUD-интерфейс",
-    "descEn": "Futuristic high-tech HUD interface loop"
-  },
-  {
-    "id": "pixel-animation",
-    "name": "Pixel Loop",
-    "nameRu": "Пиксельный цикл",
-    "cat": "retro",
-    "desc": "Уютная пиксельная анимация",
-    "descEn": "Cozy pixel art loop"
-  },
-  {
-    "id": "pixel-runner",
-    "name": "Pixel Runner",
-    "nameRu": "Пиксельный бегун",
-    "cat": "retro",
-    "desc": "Бесконечный бег 8-битного кибер-раннера",
-    "descEn": "Endless 8-bit cyber runner loop"
-  },
-  {
-    "id": "retro-drive",
-    "name": "Outrun Grid",
-    "nameRu": "Ретро-драйв",
-    "cat": "retro",
-    "desc": "Каркасная машина на сетке синтуэйва",
-    "descEn": "Outrun wireframe sports car on synth grid"
-  },
-  {
-    "id": "retro-grid",
-    "name": "Synthwave Grid",
-    "nameRu": "Синтуэйв сетка",
-    "cat": "retro",
-    "desc": "Бесконечный полёт над неоновой сеткой 80-х",
-    "descEn": "Endless flight over a glowing 80s synthwave grid"
-  },
-  {
-    "id": "sigma-loop",
-    "name": "Sigma Geometry",
-    "nameRu": "Сигма геометрия",
-    "cat": "space",
-    "desc": "Неоновый гипнотический цикл",
-    "descEn": "Geometric neon hypnotic loop"
+    "id": "babrikosk-bear",
+    "name": "Dancing Bear",
+    "nameRu": "Танцующий мишка",
+    "cat": "memes",
+    "desc": "Забавный позитивный танцующий плюшевый мишка",
+    "descEn": "Upbeat cheerful dancing plush bear animation"
   },
   {
     "id": "skeleton-dance",
     "name": "Skeleton Dance",
     "nameRu": "Танец скелетов",
     "cat": "memes",
-    "desc": "Знаменитый забавный танец скелетов",
-    "descEn": "Famous funny spooky skeleton dance"
+    "desc": "Классический ритмичный танец скелетов",
+    "descEn": "Classic rhythmic retro dancing skeletons loop"
+  },
+  {
+    "id": "interesno-meme",
+    "name": "Curious Cat",
+    "nameRu": "Кот: Интересно почему",
+    "cat": "memes",
+    "desc": "Мемный кот, задумчиво смотрящий на происходящее",
+    "descEn": "Thoughtful curious meme cat reflecting on terminal logs"
+  },
+  {
+    "id": "moon-astronaut",
+    "name": "Moon Astronaut",
+    "nameRu": "Астронавт на Луне",
+    "cat": "space",
+    "desc": "Атмосферный астронавт на Луне с видом на планету Земля",
+    "descEn": "Atmospheric astronaut resting on the Moon with Earth in the background"
+  },
+  {
+    "id": "basketball-neon",
+    "name": "Neon Dunk",
+    "nameRu": "Неоновый данк",
+    "cat": "cyber",
+    "desc": "Динамичный бросок мяча сверху в фиолетовом неоновом свете",
+    "descEn": "Dynamic basketball slam dunk under violet neon lighting"
   },
   {
     "id": "sneaky-golem",
     "name": "Voxel Golem",
     "nameRu": "Воксельный голем",
     "cat": "retro",
-    "desc": "Очаровательный шагающий голем",
-    "descEn": "Charming voxel golem walk cycle"
+    "desc": "Очаровательный шагающий воксельный голем",
+    "descEn": "Charming walking voxel golem character"
   },
   {
-    "id": "synth-sunset",
-    "name": "Synth Sunset",
-    "nameRu": "Синт-закат",
+    "id": "discipline-routine",
+    "name": "Discipline Routine",
+    "nameRu": "Дисциплина и спорт",
+    "cat": "cyber",
+    "desc": "Мотивирующий цикл тренировки в неоновом кибер-стиле",
+    "descEn": "Motivational stylized workout routine in neon cyber aesthetic"
+  },
+  {
+    "id": "anime-girl-rain",
+    "name": "Cozy Living Room Kittens",
+    "nameRu": "Уютная комната с котятами",
+    "cat": "memes",
+    "desc": "Атмосферная сцена с котятами в неоновой вечерней комнате",
+    "descEn": "Cozy evening room scene with playful kittens"
+  },
+  {
+    "id": "pixel-animation",
+    "name": "Reaction Loop",
+    "nameRu": "Мемная реакция",
     "cat": "retro",
-    "desc": "Огромное заходящее солнце над фиолетовыми горами",
-    "descEn": "Giant retro sunset over purple synthwave mountains"
+    "desc": "Культовая пиксельная мемная реакция",
+    "descEn": "Iconic retro pixel reaction meme animation"
   },
   {
-    "id": "vapor-clouds",
-    "name": "Vapor Clouds",
-    "nameRu": "Вейпорвейв облака",
+    "id": "neon-cityscape",
+    "name": "Anime Greeting",
+    "nameRu": "Аниме приветствие",
+    "cat": "cyber",
+    "desc": "Приветливый кибер-силуэт, машущий рукой из неонового окна",
+    "descEn": "Friendly cyber anime silhouette waving from a neon window"
+  },
+  {
+    "id": "neon-highway",
+    "name": "Cat on the Hood",
+    "nameRu": "Кот на капоте",
+    "cat": "cyber",
+    "desc": "Рыжий кот спокойно отдыхает на капоте машины в неоновом свете",
+    "descEn": "Calm ginger cat resting on a car hood under neon city light"
+  },
+  {
+    "id": "orchestrator-goal",
+    "name": "Tech HUD Loop",
+    "nameRu": "Интерфейс оркестратора",
     "cat": "space",
-    "desc": "Плывущие пастельные неоновые облака",
-    "descEn": "Floating pastel vaporwave clouds"
+    "desc": "Футуристический высокотехнологичный HUD-интерфейс сканирования",
+    "descEn": "Futuristic high-tech HUD scanning interface loop"
+  },
+  {
+    "id": "aesthetic-drive",
+    "name": "Fireplace Cat",
+    "nameRu": "Кот у камина",
+    "cat": "retro",
+    "desc": "Уютный кот греется у тёплого камина",
+    "descEn": "Cozy cat warming up near a gentle fireplace"
+  },
+  {
+    "id": "city-night-walk",
+    "name": "Fisheye Cat",
+    "nameRu": "Кот в объективе",
+    "cat": "memes",
+    "desc": "Забавный кот, смотрящий прямо в широкоугольную линзу",
+    "descEn": "Playful close-up cat staring into a fisheye lens"
   }
 ]
