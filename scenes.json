@@ -1,0 +1,247 @@
+[
+  {
+    "id": "aesthetic-drive",
+    "name": "Aesthetic Drive",
+    "nameRu": "Эстетичная поездка",
+    "cat": "retro",
+    "desc": "Неоновая ретро-поездка в закат 80-х"
+  },
+  {
+    "id": "anime-action",
+    "name": "Anime Action",
+    "nameRu": "Аниме Экшен",
+    "cat": "anime",
+    "desc": "Динамичный ретро-аниме экшен в неоновых тонах"
+  },
+  {
+    "id": "anime-girl-rain",
+    "name": "Girl in Rain",
+    "nameRu": "Девушка под дождём",
+    "cat": "anime",
+    "desc": "Атмосферный силуэт девушки с зонтом под дождём"
+  },
+  {
+    "id": "babrikosk-bear",
+    "name": "Dancing Bear",
+    "nameRu": "Танцующий мишка",
+    "cat": "memes",
+    "desc": "Забавный танцующий мишка Бабрикоск"
+  },
+  {
+    "id": "bananchiki-komaru",
+    "name": "Banana Komaru",
+    "nameRu": "Бананчики Комару",
+    "cat": "memes",
+    "desc": "Кошка Комару в банановом костюме"
+  },
+  {
+    "id": "basketball-neon",
+    "name": "Neon Dunk",
+    "nameRu": "Неоновый данк",
+    "cat": "cyber",
+    "desc": "Эпичный баскетбольный бросок сверху в неоновом свечении"
+  },
+  {
+    "id": "cat-stare",
+    "name": "Cat Stare",
+    "nameRu": "Пристальный кот",
+    "cat": "memes",
+    "desc": "Мемный кот, внимательно смотрящий в экран"
+  },
+  {
+    "id": "city-night-walk",
+    "name": "City Night Walk",
+    "nameRu": "Прогулка по ночному городу",
+    "cat": "cyber",
+    "desc": "Атмосферный пиксельный ночной мегаполис"
+  },
+  {
+    "id": "cosmic-drift",
+    "name": "Cosmic Drift",
+    "nameRu": "Космический дрифт",
+    "cat": "space",
+    "desc": "Астронавт, парящий в бескрайнем космосе"
+  },
+  {
+    "id": "cyber-glow",
+    "name": "Cyber Glow",
+    "nameRu": "Кибер Свечение",
+    "cat": "cyber",
+    "desc": "Плавные неоновые волны и футуристическая геометрия"
+  },
+  {
+    "id": "cyber-samurai",
+    "name": "Cyber Samurai",
+    "nameRu": "Кибер-самурай",
+    "cat": "cyber",
+    "desc": "Силуэт кибер-самурая под неоновым дождём"
+  },
+  {
+    "id": "demik-scene",
+    "name": "Pixel Horizon",
+    "nameRu": "Пиксельный горизонт",
+    "cat": "retro",
+    "desc": "Ностальгический 8-битный пейзаж"
+  },
+  {
+    "id": "discipline-routine",
+    "name": "Discipline Routine",
+    "nameRu": "Дисциплина и тренировка",
+    "cat": "anime",
+    "desc": "Мотивирующий цикл тренировки в кибер-стиле"
+  },
+  {
+    "id": "dvd-bounce",
+    "name": "DVD Bounce",
+    "nameRu": "Отскок логотипа DVD",
+    "cat": "retro",
+    "desc": "Культовый логотип DVD, отскакивающий от углов экрана"
+  },
+  {
+    "id": "eshkere-cats",
+    "name": "Eshkere Cats",
+    "nameRu": "Эщкере котики",
+    "cat": "memes",
+    "desc": "Мемные котики, танцующие под бит"
+  },
+  {
+    "id": "glitch-dream",
+    "name": "Glitch Dream",
+    "nameRu": "Глитч-сон",
+    "cat": "cyber",
+    "desc": "Психоделический неоновый глитч-арт"
+  },
+  {
+    "id": "interesno-meme",
+    "name": "Interesting Meme",
+    "nameRu": "Мем «Очень интересно»",
+    "cat": "memes",
+    "desc": "Забавный мемный диалог с котиком"
+  },
+  {
+    "id": "komaru-cat",
+    "name": "Komaru Cat",
+    "nameRu": "Кошка Комару",
+    "cat": "memes",
+    "desc": "Легендарная кошка Комару в Брайль-матрице"
+  },
+  {
+    "id": "kotiki-tantsuyut",
+    "name": "Dancing Cats",
+    "nameRu": "Котики танцуют",
+    "cat": "memes",
+    "desc": "Зажигательный танец котиков под музыку"
+  },
+  {
+    "id": "loom-animation",
+    "name": "Geometric Loom",
+    "nameRu": "Геометрический узор",
+    "cat": "space",
+    "desc": "Гипнотическое вращение световых струн"
+  },
+  {
+    "id": "moon-astronaut",
+    "name": "Moon Astronaut",
+    "nameRu": "Астронавт на Луне",
+    "cat": "space",
+    "desc": "Астронавт на фоне Земли и лунного пейзажа"
+  },
+  {
+    "id": "neon-cityscape",
+    "name": "Neon Cityscape",
+    "nameRu": "Неоновый город",
+    "cat": "cyber",
+    "desc": "Ночной киберпанк-город с неоновой рекламой"
+  },
+  {
+    "id": "neon-highway",
+    "name": "Neon Highway",
+    "nameRu": "Неоновое шоссе",
+    "cat": "cyber",
+    "desc": "Бесконечная ночная трасса в лучах неона"
+  },
+  {
+    "id": "oguzki-bezdari",
+    "name": "Oguzki Bezdari",
+    "nameRu": "Огузки бездари",
+    "cat": "memes",
+    "desc": "Культовый мем про шефа и поваров"
+  },
+  {
+    "id": "okak-cat",
+    "name": "Okak Cat",
+    "nameRu": "Кот Окак",
+    "cat": "memes",
+    "desc": "Удивлённый мемный кот Окак"
+  },
+  {
+    "id": "orchestrator-goal",
+    "name": "Tech HUD Loop",
+    "nameRu": "Интерфейс оркестратора",
+    "cat": "space",
+    "desc": "Футуристический высокотехнологичный HUD-интерфейс"
+  },
+  {
+    "id": "pixel-animation",
+    "name": "Pixel Loop",
+    "nameRu": "Пиксельный цикл",
+    "cat": "retro",
+    "desc": "Уютная пиксельная анимация"
+  },
+  {
+    "id": "pixel-runner",
+    "name": "Pixel Runner",
+    "nameRu": "Пиксельный бегун",
+    "cat": "retro",
+    "desc": "Бесконечный бег 8-битного кибер-раннера"
+  },
+  {
+    "id": "retro-drive",
+    "name": "Outrun Grid",
+    "nameRu": "Ретро-драйв",
+    "cat": "retro",
+    "desc": "Каркасная машина на сетке синтуэйва"
+  },
+  {
+    "id": "retro-grid",
+    "name": "Synthwave Grid",
+    "nameRu": "Синтуэйв сетка",
+    "cat": "retro",
+    "desc": "Бесконечный полёт над неоновой сеткой 80-х"
+  },
+  {
+    "id": "sigma-loop",
+    "name": "Sigma Geometry",
+    "nameRu": "Сигма геометрия",
+    "cat": "space",
+    "desc": "Неоновый гипнотический цикл"
+  },
+  {
+    "id": "skeleton-dance",
+    "name": "Skeleton Dance",
+    "nameRu": "Танец скелетов",
+    "cat": "memes",
+    "desc": "Знаменитый забавный танец скелетов"
+  },
+  {
+    "id": "sneaky-golem",
+    "name": "Voxel Golem",
+    "nameRu": "Воксельный голем",
+    "cat": "retro",
+    "desc": "Очаровательный шагающий голем"
+  },
+  {
+    "id": "synth-sunset",
+    "name": "Synth Sunset",
+    "nameRu": "Синт-закат",
+    "cat": "retro",
+    "desc": "Огромное заходящее солнце над фиолетовыми горами"
+  },
+  {
+    "id": "vapor-clouds",
+    "name": "Vapor Clouds",
+    "nameRu": "Вейпорвейв облака",
+    "cat": "space",
+    "desc": "Плывущие пастельные неоновые облака"
+  }
+]
